@@ -1,1 +1,44 @@
-{}
+{
+  "reddit": {
+    "base_apk_version": "2026.04.0",
+    "built_at": "2026-04-12T22:44:24Z",
+    "cli_version": "1.6.3",
+    "patches_version": "1.23.0",
+    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolved_apk": {
+      "app_key": "reddit",
+      "download_url": "https://d.apkpure.net/b/XAPK/com.reddit.frontpage?versionCode=2604041",
+      "file_name": "com.reddit.frontpage",
+      "provider": "env",
+      "version": "2026.04.0"
+    }
+  },
+  "youtube": {
+    "base_apk_version": "20.45.36",
+    "built_at": "2026-04-12T22:44:24Z",
+    "cli_version": "1.6.3",
+    "patches_version": "1.23.0",
+    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolved_apk": {
+      "app_key": "youtube",
+      "download_url": "https://d.apkpure.net/b/APK/com.google.android.youtube?versionCode=1557915072&nc=arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64&sv=28",
+      "file_name": "com.google.android.youtube",
+      "provider": "env",
+      "version": "20.45.36"
+    }
+  },
+  "youtube_music": {
+    "base_apk_version": "8.40.54",
+    "built_at": "2026-04-12T22:44:24Z",
+    "cli_version": "1.6.3",
+    "patches_version": "1.23.0",
+    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolved_apk": {
+      "app_key": "youtube_music",
+      "download_url": "https://d.apkpure.net/b/XAPK/com.google.android.apps.youtube.music?versionCode=84054240",
+      "file_name": "com.google.android.apps.youtube.music",
+      "provider": "env",
+      "version": "8.40.54"
+    }
+  }
+}

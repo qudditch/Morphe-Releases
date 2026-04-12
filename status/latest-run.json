@@ -1,51 +1,51 @@
 {
-  "built_apps": [],
-  "dry_run": true,
-  "failed_apps": [],
-  "force": false,
-  "generated_at": "2026-04-12T18:20:37Z",
-  "outcomes": {
-    "reddit": {
-      "artifact_path": null,
-      "error_code": "None",
-      "message": "Would build",
-      "metadata_path": null,
-      "reasons": [
-        "first_build"
-      ],
-      "status": "planned"
-    },
-    "youtube": {
-      "artifact_path": null,
-      "error_code": "None",
-      "message": "Would build",
-      "metadata_path": null,
-      "reasons": [
-        "first_build"
-      ],
-      "status": "planned"
-    },
-    "youtube_music": {
-      "artifact_path": null,
-      "error_code": "None",
-      "message": "Would build",
-      "metadata_path": null,
-      "reasons": [
-        "first_build"
-      ],
-      "status": "planned"
-    }
-  },
-  "planned_apps": [
+  "built_apps": [
     "youtube",
     "youtube_music",
     "reddit"
   ],
-  "publish": false,
+  "dry_run": false,
+  "failed_apps": [],
+  "force": false,
+  "generated_at": "2026-04-12T22:44:39Z",
+  "outcomes": {
+    "reddit": {
+      "artifact_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-reddit/apk/reddit-morphe-arm64-v8a.apk",
+      "error_code": "None",
+      "message": "Build completed successfully",
+      "metadata_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-reddit/metadata/reddit.json",
+      "reasons": [
+        "first_build"
+      ],
+      "status": "success"
+    },
+    "youtube": {
+      "artifact_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-youtube/apk/youtube-morphe-arm64-v8a.apk",
+      "error_code": "None",
+      "message": "Build completed successfully",
+      "metadata_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-youtube/metadata/youtube.json",
+      "reasons": [
+        "first_build"
+      ],
+      "status": "success"
+    },
+    "youtube_music": {
+      "artifact_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-youtube_music/apk/youtube-music-morphe-arm64-v8a.apk",
+      "error_code": "None",
+      "message": "Build completed successfully",
+      "metadata_path": "/home/runner/work/Morphe/Morphe/artifacts/morphe-build-youtube_music/metadata/youtube_music.json",
+      "reasons": [
+        "first_build"
+      ],
+      "status": "success"
+    }
+  },
+  "planned_apps": [],
+  "publish": true,
   "publish_error": null,
   "release_repository": "qudditch/Morphe-Releases",
-  "release_tag": null,
-  "release_url": null,
+  "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+  "release_url": "https://github.com/qudditch/Morphe-Releases/releases/tag/morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
   "requested_app": "all",
   "skipped_apps": []
 }
