@@ -23,7 +23,7 @@
       "allowIdChange": false
     },
     {
-      "id": "com.google.android.apps.youtube.music",
+      "id": "app.morphe.android.apps.youtube.music",
       "url": "https://github.com/qudditch/Morphe-Releases",
       "author": "qudditch",
       "name": "Morphe YouTube Music",
