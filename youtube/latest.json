@@ -1,0 +1,24 @@
+{
+  "app": "youtube",
+  "arch": "arm64-v8a",
+  "asset_url": null,
+  "base_apk_version": null,
+  "built_at": null,
+  "categories": [
+    "morphe",
+    "video"
+  ],
+  "cli_version": null,
+  "generated_at": null,
+  "name": "Morphe YouTube",
+  "output_name": "youtube-morphe-arm64-v8a.apk",
+  "package_name": "app.morphe.android.youtube",
+  "patches_version": null,
+  "path": "youtube",
+  "release_repository": "qudditch/Morphe-Releases",
+  "release_tag": null,
+  "release_url": null,
+  "resolved_apk": null,
+  "source_package_name": "com.google.android.youtube",
+  "status": "unreleased"
+}

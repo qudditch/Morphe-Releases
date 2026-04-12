@@ -1,0 +1,51 @@
+{
+  "built_apps": [],
+  "dry_run": true,
+  "failed_apps": [],
+  "force": false,
+  "generated_at": "2026-04-12T18:17:43Z",
+  "outcomes": {
+    "reddit": {
+      "artifact_path": null,
+      "error_code": "None",
+      "message": "Would build",
+      "metadata_path": null,
+      "reasons": [
+        "first_build"
+      ],
+      "status": "planned"
+    },
+    "youtube": {
+      "artifact_path": null,
+      "error_code": "None",
+      "message": "Would build",
+      "metadata_path": null,
+      "reasons": [
+        "first_build"
+      ],
+      "status": "planned"
+    },
+    "youtube_music": {
+      "artifact_path": null,
+      "error_code": "None",
+      "message": "Would build",
+      "metadata_path": null,
+      "reasons": [
+        "first_build"
+      ],
+      "status": "planned"
+    }
+  },
+  "planned_apps": [
+    "youtube",
+    "youtube_music",
+    "reddit"
+  ],
+  "publish": false,
+  "publish_error": null,
+  "release_repository": "qudditch/Morphe-Releases",
+  "release_tag": null,
+  "release_url": null,
+  "requested_app": "all",
+  "skipped_apps": []
+}

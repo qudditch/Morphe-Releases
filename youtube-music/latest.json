@@ -1,0 +1,24 @@
+{
+  "app": "youtube_music",
+  "arch": "arm64-v8a",
+  "asset_url": null,
+  "base_apk_version": null,
+  "built_at": null,
+  "categories": [
+    "morphe",
+    "music"
+  ],
+  "cli_version": null,
+  "generated_at": null,
+  "name": "Morphe YouTube Music",
+  "output_name": "youtube-music-morphe-arm64-v8a.apk",
+  "package_name": "app.morphe.android.apps.youtube.music",
+  "patches_version": null,
+  "path": "youtube-music",
+  "release_repository": "qudditch/Morphe-Releases",
+  "release_tag": null,
+  "release_url": null,
+  "resolved_apk": null,
+  "source_package_name": "com.google.android.apps.youtube.music",
+  "status": "unreleased"
+}
