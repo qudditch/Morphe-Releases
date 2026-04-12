@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "com.google.android.youtube",
+      "id": "app.morphe.android.youtube",
       "url": "https://github.com/qudditch/Morphe-Releases",
       "author": "qudditch",
       "name": "Morphe YouTube",
