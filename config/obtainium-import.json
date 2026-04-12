@@ -1,0 +1,70 @@
+{
+  "apps": [
+    {
+      "id": "com.google.android.youtube",
+      "url": "https://github.com/qudditch/Morphe-Releases",
+      "author": "qudditch",
+      "name": "Morphe YouTube",
+      "installedVersion": null,
+      "latestVersion": "Unknown",
+      "apkUrls": "[[\"placeholder\",\"placeholder\"]]",
+      "otherAssetUrls": "[]",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"^youtube-morphe-arm64-v8a\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"appName\":\"Morphe YouTube\",\"appAuthor\":\"qudditch\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+      "lastUpdateCheck": null,
+      "pinned": false,
+      "categories": [
+        "morphe",
+        "video"
+      ],
+      "releaseDate": null,
+      "changeLog": null,
+      "overrideSource": null,
+      "allowIdChange": false
+    },
+    {
+      "id": "com.google.android.apps.youtube.music",
+      "url": "https://github.com/qudditch/Morphe-Releases",
+      "author": "qudditch",
+      "name": "Morphe YouTube Music",
+      "installedVersion": null,
+      "latestVersion": "Unknown",
+      "apkUrls": "[[\"placeholder\",\"placeholder\"]]",
+      "otherAssetUrls": "[]",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"^youtube-music-morphe-arm64-v8a\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"appName\":\"Morphe YouTube Music\",\"appAuthor\":\"qudditch\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+      "lastUpdateCheck": null,
+      "pinned": false,
+      "categories": [
+        "morphe",
+        "music"
+      ],
+      "releaseDate": null,
+      "changeLog": null,
+      "overrideSource": null,
+      "allowIdChange": false
+    },
+    {
+      "id": "com.reddit.frontpage",
+      "url": "https://github.com/qudditch/Morphe-Releases",
+      "author": "qudditch",
+      "name": "Morphe Reddit",
+      "installedVersion": null,
+      "latestVersion": "Unknown",
+      "apkUrls": "[[\"placeholder\",\"placeholder\"]]",
+      "otherAssetUrls": "[]",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"^reddit-morphe-arm64-v8a\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"appName\":\"Morphe Reddit\",\"appAuthor\":\"qudditch\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+      "lastUpdateCheck": null,
+      "pinned": false,
+      "categories": [
+        "morphe",
+        "social"
+      ],
+      "releaseDate": null,
+      "changeLog": null,
+      "overrideSource": null,
+      "allowIdChange": false
+    }
+  ]
+}
