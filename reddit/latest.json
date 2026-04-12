@@ -1,7 +1,7 @@
 {
   "app": "reddit",
   "arch": "arm64-v8a",
-  "asset_url": null,
+  "asset_url": "https://github.com/qudditch/Morphe-Releases/releases/download/morphe-20260412t165929z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54/reddit-morphe-arm64-v8a.apk",
   "base_apk_version": null,
   "built_at": null,
   "categories": [
@@ -16,9 +16,9 @@
   "patches_version": null,
   "path": "reddit",
   "release_repository": "qudditch/Morphe-Releases",
-  "release_tag": null,
-  "release_url": null,
+  "release_tag": "morphe-20260412t165929z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+  "release_url": "https://github.com/qudditch/Morphe-Releases/releases/tag/morphe-20260412t165929z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
   "resolved_apk": null,
   "source_package_name": "com.reddit.frontpage",
-  "status": "unreleased"
+  "status": "published"
 }
