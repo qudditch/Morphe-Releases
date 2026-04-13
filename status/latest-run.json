@@ -1,9 +1,9 @@
 {
   "built_apps": [],
-  "dry_run": true,
+  "dry_run": false,
   "failed_apps": [],
   "force": false,
-  "generated_at": "2026-04-13T05:32:46Z",
+  "generated_at": "2026-04-13T22:50:21Z",
   "outcomes": {
     "reddit": {
       "artifact_path": null,
@@ -31,7 +31,7 @@
     }
   },
   "planned_apps": [],
-  "publish": false,
+  "publish": true,
   "publish_error": null,
   "release_repository": "qudditch/Morphe-Releases",
   "release_tag": null,
