@@ -1,0 +1,33 @@
+{
+  "apps": {
+    "reddit": {
+      "artifact_kind": null,
+      "built_at": "2026-04-12T22:44:24Z",
+      "provider": "env",
+      "reused_previous_url": null,
+      "source_host": "d.apkpure.net",
+      "source_url_kind": null,
+      "status": "published"
+    },
+    "youtube": {
+      "artifact_kind": null,
+      "built_at": "2026-04-12T22:44:24Z",
+      "provider": "env",
+      "reused_previous_url": null,
+      "source_host": "d.apkpure.net",
+      "source_url_kind": null,
+      "status": "published"
+    },
+    "youtube_music": {
+      "artifact_kind": null,
+      "built_at": "2026-04-12T22:44:24Z",
+      "provider": "env",
+      "reused_previous_url": null,
+      "source_host": "d.apkpure.net",
+      "source_url_kind": null,
+      "status": "published"
+    }
+  },
+  "generated_at": "2026-04-14T11:49:17Z",
+  "release_repository": "qudditch/Morphe-Releases"
+}

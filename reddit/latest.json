@@ -18,9 +18,11 @@
   "release_repository": "qudditch/Morphe-Releases",
   "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
   "release_url": "https://github.com/qudditch/Morphe-Releases/releases/tag/morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+  "resolution_summary": null,
   "resolved_apk": {
     "app_key": "reddit",
-    "download_url": "https://d.apkpure.net/b/XAPK/com.reddit.frontpage?versionCode=2604041",
+    "download_host": "d.apkpure.net",
+    "download_url": "https://d.apkpure.net/b/XAPK/com.reddit.frontpage",
     "file_name": "com.reddit.frontpage",
     "provider": "env",
     "version": "2026.04.0"

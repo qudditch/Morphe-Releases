@@ -18,9 +18,11 @@
   "release_repository": "qudditch/Morphe-Releases",
   "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
   "release_url": "https://github.com/qudditch/Morphe-Releases/releases/tag/morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+  "resolution_summary": null,
   "resolved_apk": {
     "app_key": "youtube_music",
-    "download_url": "https://d.apkpure.net/b/XAPK/com.google.android.apps.youtube.music?versionCode=84054240",
+    "download_host": "d.apkpure.net",
+    "download_url": "https://d.apkpure.net/b/XAPK/com.google.android.apps.youtube.music",
     "file_name": "com.google.android.apps.youtube.music",
     "provider": "env",
     "version": "8.40.54"

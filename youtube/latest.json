@@ -18,9 +18,11 @@
   "release_repository": "qudditch/Morphe-Releases",
   "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
   "release_url": "https://github.com/qudditch/Morphe-Releases/releases/tag/morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+  "resolution_summary": null,
   "resolved_apk": {
     "app_key": "youtube",
-    "download_url": "https://d.apkpure.net/b/APK/com.google.android.youtube?versionCode=1557915072&nc=arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64&sv=28",
+    "download_host": "d.apkpure.net",
+    "download_url": "https://d.apkpure.net/b/APK/com.google.android.youtube",
     "file_name": "com.google.android.youtube",
     "provider": "env",
     "version": "20.45.36"

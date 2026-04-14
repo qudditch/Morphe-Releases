@@ -3,10 +3,11 @@
   "dry_run": true,
   "failed_apps": [],
   "force": false,
-  "generated_at": "2026-04-14T11:12:38Z",
+  "generated_at": "2026-04-14T11:49:17Z",
   "outcomes": {
     "reddit": {
       "artifact_path": null,
+      "details": null,
       "error_code": "None",
       "message": "No rebuild required",
       "metadata_path": null,
@@ -15,6 +16,7 @@
     },
     "youtube": {
       "artifact_path": null,
+      "details": null,
       "error_code": "None",
       "message": "No rebuild required",
       "metadata_path": null,
@@ -23,6 +25,7 @@
     },
     "youtube_music": {
       "artifact_path": null,
+      "details": null,
       "error_code": "None",
       "message": "No rebuild required",
       "metadata_path": null,
