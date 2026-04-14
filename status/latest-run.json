@@ -1,36 +1,40 @@
 {
   "built_apps": [],
   "dry_run": false,
-  "failed_apps": [],
-  "force": false,
-  "generated_at": "2026-04-14T11:50:06Z",
+  "failed_apps": [
+    "youtube",
+    "youtube_music",
+    "reddit"
+  ],
+  "force": true,
+  "generated_at": "2026-04-14T11:55:07Z",
   "outcomes": {
     "reddit": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "APK_ARTIFACT_MISSING",
+      "message": "Built APK artifact is missing from the app artifact bundle",
       "metadata_path": null,
       "reasons": [],
-      "status": "skipped"
+      "status": "failed"
     },
     "youtube": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "APK_ARTIFACT_MISSING",
+      "message": "Built APK artifact is missing from the app artifact bundle",
       "metadata_path": null,
       "reasons": [],
-      "status": "skipped"
+      "status": "failed"
     },
     "youtube_music": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "APK_ARTIFACT_MISSING",
+      "message": "Built APK artifact is missing from the app artifact bundle",
       "metadata_path": null,
       "reasons": [],
-      "status": "skipped"
+      "status": "failed"
     }
   },
   "planned_apps": [],
@@ -40,9 +44,5 @@
   "release_tag": null,
   "release_url": null,
   "requested_app": "all",
-  "skipped_apps": [
-    "youtube",
-    "youtube_music",
-    "reddit"
-  ]
+  "skipped_apps": []
 }
