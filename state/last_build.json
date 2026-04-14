@@ -1,11 +1,44 @@
 {
   "reddit": {
     "base_apk_version": "2026.04.0",
-    "built_at": "2026-04-12T22:44:24Z",
+    "built_at": "2026-04-14T12:06:08Z",
     "cli_version": "1.6.3",
     "patches_version": "1.23.0",
-    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
-    "resolution_summary": null,
+    "release_tag": "morphe-20260414t120608z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolution_summary": {
+      "attempt_count": 1,
+      "candidate_count": 1,
+      "error": null,
+      "provider_attempts": {
+        "env": {
+          "artifact_kinds": [
+            "split_bundle"
+          ],
+          "attempts": 1,
+          "messages": [
+            "Downloaded split bundle and merged it into a single APK"
+          ],
+          "selected": true,
+          "statuses": {
+            "selected": 1
+          },
+          "url_kinds": [
+            "xapk"
+          ]
+        }
+      },
+      "requested_version": "2026.04.0",
+      "reused_previous_age_seconds": 134315,
+      "reused_previous_url": false,
+      "selected_artifact_kind": "split_bundle",
+      "selected_provider": "env",
+      "selected_source_host": "d-14.winudf.com",
+      "selected_source_url": "https://d.apkpure.net/b/XAPK/com.reddit.frontpage",
+      "selected_url_kind": "xapk",
+      "selected_version": "2026.04.0",
+      "selection_strategy": "env:MORPHE_REDDIT_APK_VERSION+validated",
+      "supported_versions_count": 3
+    },
     "resolved_apk": {
       "app_key": "reddit",
       "download_url": "https://d.apkpure.net/b/XAPK/com.reddit.frontpage?versionCode=2604041",
@@ -16,11 +49,44 @@
   },
   "youtube": {
     "base_apk_version": "20.45.36",
-    "built_at": "2026-04-12T22:44:24Z",
+    "built_at": "2026-04-14T12:06:08Z",
     "cli_version": "1.6.3",
     "patches_version": "1.23.0",
-    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
-    "resolution_summary": null,
+    "release_tag": "morphe-20260414t120608z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolution_summary": {
+      "attempt_count": 1,
+      "candidate_count": 1,
+      "error": null,
+      "provider_attempts": {
+        "env": {
+          "artifact_kinds": [
+            "single_apk"
+          ],
+          "attempts": 1,
+          "messages": [
+            "Downloaded and validated as a single APK"
+          ],
+          "selected": true,
+          "statuses": {
+            "selected": 1
+          },
+          "url_kinds": [
+            "apk"
+          ]
+        }
+      },
+      "requested_version": "20.45.36",
+      "reused_previous_age_seconds": 134307,
+      "reused_previous_url": false,
+      "selected_artifact_kind": "single_apk",
+      "selected_provider": "env",
+      "selected_source_host": "d-15.winudf.com",
+      "selected_source_url": "https://d.apkpure.net/b/APK/com.google.android.youtube",
+      "selected_url_kind": "apk",
+      "selected_version": "20.45.36",
+      "selection_strategy": "env:MORPHE_YOUTUBE_APK_VERSION+validated",
+      "supported_versions_count": 4
+    },
     "resolved_apk": {
       "app_key": "youtube",
       "download_url": "https://d.apkpure.net/b/APK/com.google.android.youtube?versionCode=1557915072&nc=arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64&sv=28",
@@ -31,11 +97,44 @@
   },
   "youtube_music": {
     "base_apk_version": "8.40.54",
-    "built_at": "2026-04-12T22:44:24Z",
+    "built_at": "2026-04-14T12:06:08Z",
     "cli_version": "1.6.3",
     "patches_version": "1.23.0",
-    "release_tag": "morphe-20260412t224424z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
-    "resolution_summary": null,
+    "release_tag": "morphe-20260414t120608z-cli-1.6.3-patches-1.23.0-reddit-2026.04.0-youtube-20.45.36-ytmusic-8.40.54",
+    "resolution_summary": {
+      "attempt_count": 1,
+      "candidate_count": 1,
+      "error": null,
+      "provider_attempts": {
+        "env": {
+          "artifact_kinds": [
+            "split_bundle"
+          ],
+          "attempts": 1,
+          "messages": [
+            "Downloaded split bundle and merged it into a single APK"
+          ],
+          "selected": true,
+          "statuses": {
+            "selected": 1
+          },
+          "url_kinds": [
+            "xapk"
+          ]
+        }
+      },
+      "requested_version": "8.40.54",
+      "reused_previous_age_seconds": 134312,
+      "reused_previous_url": false,
+      "selected_artifact_kind": "split_bundle",
+      "selected_provider": "env",
+      "selected_source_host": "d-03.winudf.com",
+      "selected_source_url": "https://d.apkpure.net/b/XAPK/com.google.android.apps.youtube.music",
+      "selected_url_kind": "xapk",
+      "selected_version": "8.40.54",
+      "selection_strategy": "env:MORPHE_YOUTUBE_MUSIC_APK_VERSION+validated",
+      "supported_versions_count": 4
+    },
     "resolved_apk": {
       "app_key": "youtube_music",
       "download_url": "https://d.apkpure.net/b/XAPK/com.google.android.apps.youtube.music?versionCode=84054240",

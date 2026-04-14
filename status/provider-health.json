@@ -1,33 +1,33 @@
 {
   "apps": {
     "reddit": {
-      "artifact_kind": null,
-      "built_at": "2026-04-12T22:44:24Z",
+      "artifact_kind": "split_bundle",
+      "built_at": "2026-04-14T12:06:08Z",
       "provider": "env",
-      "reused_previous_url": null,
-      "source_host": "d.apkpure.net",
-      "source_url_kind": null,
+      "reused_previous_url": false,
+      "source_host": "d-14.winudf.com",
+      "source_url_kind": "xapk",
       "status": "published"
     },
     "youtube": {
-      "artifact_kind": null,
-      "built_at": "2026-04-12T22:44:24Z",
+      "artifact_kind": "single_apk",
+      "built_at": "2026-04-14T12:06:08Z",
       "provider": "env",
-      "reused_previous_url": null,
-      "source_host": "d.apkpure.net",
-      "source_url_kind": null,
+      "reused_previous_url": false,
+      "source_host": "d-15.winudf.com",
+      "source_url_kind": "apk",
       "status": "published"
     },
     "youtube_music": {
-      "artifact_kind": null,
-      "built_at": "2026-04-12T22:44:24Z",
+      "artifact_kind": "split_bundle",
+      "built_at": "2026-04-14T12:06:08Z",
       "provider": "env",
-      "reused_previous_url": null,
-      "source_host": "d.apkpure.net",
-      "source_url_kind": null,
+      "reused_previous_url": false,
+      "source_host": "d-03.winudf.com",
+      "source_url_kind": "xapk",
       "status": "published"
     }
   },
-  "generated_at": "2026-04-14T12:02:13Z",
+  "generated_at": "2026-04-14T12:06:21Z",
   "release_repository": "qudditch/Morphe-Releases"
 }
