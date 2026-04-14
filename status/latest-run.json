@@ -1,48 +1,48 @@
 {
   "built_apps": [],
-  "dry_run": false,
-  "failed_apps": [
-    "youtube",
-    "youtube_music",
-    "reddit"
-  ],
-  "force": true,
-  "generated_at": "2026-04-14T11:55:07Z",
+  "dry_run": true,
+  "failed_apps": [],
+  "force": false,
+  "generated_at": "2026-04-14T12:02:13Z",
   "outcomes": {
     "reddit": {
       "artifact_path": null,
       "details": null,
-      "error_code": "APK_ARTIFACT_MISSING",
-      "message": "Built APK artifact is missing from the app artifact bundle",
+      "error_code": "None",
+      "message": "No rebuild required",
       "metadata_path": null,
       "reasons": [],
-      "status": "failed"
+      "status": "skipped"
     },
     "youtube": {
       "artifact_path": null,
       "details": null,
-      "error_code": "APK_ARTIFACT_MISSING",
-      "message": "Built APK artifact is missing from the app artifact bundle",
+      "error_code": "None",
+      "message": "No rebuild required",
       "metadata_path": null,
       "reasons": [],
-      "status": "failed"
+      "status": "skipped"
     },
     "youtube_music": {
       "artifact_path": null,
       "details": null,
-      "error_code": "APK_ARTIFACT_MISSING",
-      "message": "Built APK artifact is missing from the app artifact bundle",
+      "error_code": "None",
+      "message": "No rebuild required",
       "metadata_path": null,
       "reasons": [],
-      "status": "failed"
+      "status": "skipped"
     }
   },
   "planned_apps": [],
-  "publish": true,
+  "publish": false,
   "publish_error": null,
   "release_repository": "qudditch/Morphe-Releases",
   "release_tag": null,
   "release_url": null,
   "requested_app": "all",
-  "skipped_apps": []
+  "skipped_apps": [
+    "youtube",
+    "youtube_music",
+    "reddit"
+  ]
 }
