@@ -1,36 +1,50 @@
 {
   "built_apps": [],
   "dry_run": false,
-  "failed_apps": [],
+  "failed_apps": [
+    "youtube",
+    "youtube_music",
+    "reddit"
+  ],
   "force": false,
-  "generated_at": "2026-04-14T22:51:48Z",
+  "generated_at": "2026-05-01T02:06:30Z",
   "outcomes": {
     "reddit": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "DOWNLOAD_ERROR",
+      "message": "No download URL configured for reddit. automatic provider attempts failed: apkpure: APKPure request failed for https://apkpure.net/reddit-apk/com.reddit.frontpage/versions: HTTP Error 403: ; curl fallback failed: HTTP Error 403; apkmirror: APKMirror blocked automated access for https://www.apkmirror.com/apk/redditinc/reddit/: Cloudflare challenge; aptoide: Aptoide request failed for https://ws75.aptoide.com/api/7/listAppVersions?package_name=com.reddit.frontpage&limit=100&q=bXlDUFU9YXJtNjQtdjhhLGFybWVhYmktdjdhLGFybWVhYmkmbGVhbmJhY2s9MA==: HTTP Error 400:  Set MORPHE_REDDIT_APK_URL, provide automatic provider metadata, or configure providers.<name>.download_url_hints.",
       "metadata_path": null,
-      "reasons": [],
-      "status": "skipped"
+      "reasons": [
+        "cli_version_changed",
+        "patches_version_changed",
+        "base_apk_version_changed"
+      ],
+      "status": "failed"
     },
     "youtube": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "DOWNLOAD_ERROR",
+      "message": "No download URL configured for youtube. automatic provider attempts failed: apkpure: APKPure request failed for https://apkpure.net/youtube/com.google.android.youtube/versions: HTTP Error 403: ; curl fallback failed: HTTP Error 403; apkmirror: APKMirror blocked automated access for https://www.apkmirror.com/apk/google-inc/youtube/: Cloudflare challenge; aptoide: Aptoide request failed for https://ws75.aptoide.com/api/7/listAppVersions?package_name=com.google.android.youtube&limit=100&q=bXlDUFU9YXJtNjQtdjhhLGFybWVhYmktdjdhLGFybWVhYmkmbGVhbmJhY2s9MA==: HTTP Error 400:  Set MORPHE_YOUTUBE_APK_URL, provide automatic provider metadata, or configure providers.<name>.download_url_hints.",
       "metadata_path": null,
-      "reasons": [],
-      "status": "skipped"
+      "reasons": [
+        "cli_version_changed",
+        "patches_version_changed"
+      ],
+      "status": "failed"
     },
     "youtube_music": {
       "artifact_path": null,
       "details": null,
-      "error_code": "None",
-      "message": "No rebuild required",
+      "error_code": "DOWNLOAD_ERROR",
+      "message": "No download URL configured for youtube_music. automatic provider attempts failed: apkpure: APKPure request failed for https://apkpure.net/youtube-music/com.google.android.apps.youtube.music/versions: HTTP Error 403: ; curl fallback failed: HTTP Error 403; apkmirror: APKMirror blocked automated access for https://www.apkmirror.com/apk/google-inc/youtube-music/: Cloudflare challenge; aptoide: Aptoide request failed for https://ws75.aptoide.com/api/7/listAppVersions?package_name=com.google.android.apps.youtube.music&limit=100&q=bXlDUFU9YXJtNjQtdjhhLGFybWVhYmktdjdhLGFybWVhYmkmbGVhbmJhY2s9MA==: HTTP Error 400:  Set MORPHE_YOUTUBE_MUSIC_APK_URL, provide automatic provider metadata, or configure providers.<name>.download_url_hints.",
       "metadata_path": null,
-      "reasons": [],
-      "status": "skipped"
+      "reasons": [
+        "cli_version_changed",
+        "patches_version_changed"
+      ],
+      "status": "failed"
     }
   },
   "planned_apps": [],
@@ -40,9 +54,5 @@
   "release_tag": null,
   "release_url": null,
   "requested_app": "all",
-  "skipped_apps": [
-    "youtube",
-    "youtube_music",
-    "reddit"
-  ]
+  "skipped_apps": []
 }
